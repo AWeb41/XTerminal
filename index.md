@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Temukan Yang Anda Cari Di XTerminal:
+Temukan Yang Anda Cari Di:
+
+# XTerminal
 
 [Blog](./another-page.html).
 
