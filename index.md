@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Temukan Yang Anda Cari Di XTerminal:
 
 [Blog](./another-page.html).
 
